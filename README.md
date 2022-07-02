@@ -2,13 +2,14 @@
 
 ## 🚀 About me
 
-🎓 I am Chayutpong Jaratpongtakul , My friends call me Tiger , I am **Full Stack Web Developer**. I graduated with a bachelor’s degree form Computer Science in Khon Kaen University
+🎓 I am Chayutpong Jaratpongtakul , My friends call me Tiger , I am **Full Stack Web Developer**. I graduated with a bachelor’s degree form Computer Science in Khon Kaen University.
 
 ## 🛠️ Skills
 
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=javascript&logoColor=00000)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
 <!--
