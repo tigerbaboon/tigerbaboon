@@ -10,7 +10,7 @@
 
 ![php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![mysql](https://img.shields.io/badge/MySql-E34F26?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![mysql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
