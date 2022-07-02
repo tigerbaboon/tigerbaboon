@@ -9,7 +9,7 @@
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=javascript&logoColor=00000)
+![php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=000000)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
 <!--
