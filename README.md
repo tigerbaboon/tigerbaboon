@@ -11,16 +11,17 @@
 ![go](https://img.shields.io/badge/Go-1572B6?style=for-the-badge&logo=go&logoColor=FFFFFF)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
-![sql](https://img.shields.io/badge/Sql-4479A1?style=for-the-badge&logo=sql&logoColor=FFFFFF)
+![sql](https://img.shields.io/badge/Sql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
 
 ### Framework | System
 
-![vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=FFFFFF)
-![nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
+![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![nuxtjs](https://img.shields.io/badge/Nuxt.js-FFFFFF?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
+![nestjs](https://img.shields.io/badge/Nestjs-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![postgresql](https://img.shields.io/badge/postgresql-FFFFFF?style=for-the-badge&logo=postgresql)
 ![docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 ![Google_cloud](https://img.shields.io/badge/Google_cloud-FFFFFF?style=for-the-badge&logo=googlecloud)
