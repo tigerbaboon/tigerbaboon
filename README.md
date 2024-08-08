@@ -27,7 +27,7 @@
 ![Google_cloud](https://img.shields.io/badge/Google_cloud-FFFFFF?style=for-the-badge&logo=googlecloud)
 
 
-## 🔗 Links
+## 🔗 Social
 
 <!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/) -->
 <!-- [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/) -->
