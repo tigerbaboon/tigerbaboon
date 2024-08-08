@@ -6,8 +6,6 @@
 
 ## 🛠️ Skills
 
-### Languages
-
 ![go](https://img.shields.io/badge/Go-1572B6?style=for-the-badge&logo=go&logoColor=FFFFFF)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
