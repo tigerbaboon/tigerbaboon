@@ -14,10 +14,6 @@
 ![sql](https://img.shields.io/badge/Sql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-
-
-### Framework | System
-
 ![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![nuxtjs](https://img.shields.io/badge/Nuxt.js-FFFFFF?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
